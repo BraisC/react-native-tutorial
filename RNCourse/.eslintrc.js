@@ -10,10 +10,10 @@ module.exports = {
     },
     sourceType: 'module',
     requireConfigFile: false,
-    babelOptions: {
-      cwd: __dirname, // The working directory that all paths in the programmatic options will be resolved relative to.
-      presets: ['@babel/preset-env', '@babel/preset-react'],
-    },
+    // babelOptions: {
+    //   cwd: __dirname, // The working directory that all paths in the programmatic options will be resolved relative to.
+    //   presets: ['babel-preset-expo', '@babel/preset-env', '@babel/preset-react'],
+    // },
   },
   env: {
     browser: true,
