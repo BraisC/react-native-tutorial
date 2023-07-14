@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RNCourse2",
-    "slug": "RNCourse2",
+    "name": "RNCourse",
+    "slug": "RNCourse",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
